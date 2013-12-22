@@ -30,7 +30,7 @@ Optional functions:
   4. Sharp steering.
   5. Ability to communicate one-to-many.
 
-This repo contains the works, both tested and untested.  Folders will be marked "Tested" and "Untested"
+This repo contains the works, both tested and untested.  Therefore, folders will be marked "Untested" until someone confirms the build works.
 
 Again, the purpose is to create a diminutive robot given the following constraints: Small size, total expense, functions, and individualized purposes. 
 
