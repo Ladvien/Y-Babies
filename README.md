@@ -4,6 +4,7 @@ Y-Babies
 Open Source Swarm Bots
 
 Created by: Yahmez
+
 Modified by: Ladvien
 
 The following designs evolved from Yahmez' original Baby Bot:
