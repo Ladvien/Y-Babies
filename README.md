@@ -4,7 +4,6 @@ Y-Babies
 Open Source Swarm Bots
 
 Created by: Yahmez
-
 Modified by: Ladvien
 
 The following designs evolved from Yahmez' original Baby Bot:
@@ -32,3 +31,7 @@ Optional functions:
   5. Ability to communicate one-to-many.
 
 This repo contains the works, both tested and untested.  Folders will be marked "Tested" and "Untested"
+
+Again, the purpose is to create a diminutive robot given the following constraints: Small size, total expense, functions, and individualized purposes. 
+
+If there is a direct question, please contact: design@ubermentis.com
