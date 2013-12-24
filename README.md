@@ -35,3 +35,5 @@ This repo contains the works, both tested and untested.  Therefore, folders will
 Again, the purpose is to create a diminutive robot given the following constraints: Small size, total expense, functions, and individualized purposes. 
 
 If there is a direct question, please contact: design@ubermentis.com
+
+![alt tag](http://letsmakerobots.com/files/imagecache/robot_fullpage_header/field_primary_image/IMGP0947.JPG)
