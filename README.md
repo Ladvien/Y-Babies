@@ -1,6 +1,5 @@
 Y-Babies
 ========
-![alt tag](http://letsmakerobots.com/files/imagecache/robot_fullpage_header/field_primary_image/IMGP0947.JPG)
 
 Open Source Swarm Bots
 
@@ -37,4 +36,6 @@ Again, the purpose is to create a diminutive robot given the following constrain
 
 If there is a direct question, please contact: design@ubermentis.com
 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
